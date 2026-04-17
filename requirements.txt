@@ -1,0 +1,6 @@
+numpy>=1.22
+scipy>=1.9
+matplotlib>=3.5
+EMD-signal>=1.4
+jupyter>=1.0
+pytest>=7.0
